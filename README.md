@@ -8,6 +8,6 @@ CRUD
 
 React 19
 
-NVM Node v20: $ node -- watch server.js
+NVM Node v18.11+: $ node -- watch server.js
 
 Thunder Client
